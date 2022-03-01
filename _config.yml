@@ -1,6 +1,16 @@
-title: Minimal theme
+title: <p align="center"> Gaurav Gupta </p>
 logo: /assets/img/Saved Image Gaurav .png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/gaurav-gupta-a9a8a824?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFA57pP3TvSBKsSp1s2s5Q%3D%3D">LinkedIn</a> |
+  <a href="https://github.com/githubofgaurav">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  I have also Worked with TCS, Sopra Banking Platform, Dell International Services in IBM Mainframes technology for 10 years.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
